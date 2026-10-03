@@ -6,7 +6,7 @@ In thermal equilibrium, molecules at room temperature move with energies of $\ap
 
 Low-temperature, non-equilibrium **plasmas** achieve an extraordinary thermodynamic miracle: free electrons are accelerated by RF electromagnetic fields to kinetic temperatures of $20,000\text{ to } 60,000\text{ K}$ ($2\text{–}6\text{ eV}$), while heavy neutral gas atoms and ions remain close to room temperature ($300\text{–}400\text{ K}$). These hot electrons collide with feedstock gas molecules, dissociating inert gases like $\text{CF}_4$, $\text{Cl}_2$, and $\text{SF}_6$ into highly reactive radicals, ions, and metastables.
 
-Following Charlie Munger's inversion principle, we ask: *What causes catastrophic failure in plasma-driven wafer processing?*
+Following The First-Principles Inversion Framework, we ask: *What causes catastrophic failure in plasma-driven wafer processing?*
 
 ### 1. Plasma Instabilities and Striations
 In electronegative gases like chlorine and fluorocarbons, electrons attach to neutrals to form massive populations of negative ions ($\text{Cl}^-$, $\text{F}^-$). When negative ion density dwarfs electron density ($\alpha = n_- / n_e \gg 1$), the plasma undergoes nonlinear spatio-temporal oscillations, forming traveling striations that cause sudden, uncorrectable radial etch non-uniformities.

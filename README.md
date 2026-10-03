@@ -4,7 +4,7 @@
 This volume delivers a rigorous, first-principles exposition of low-temperature plasma physics, capacitive and inductive power coupling, non-linear RF sheaths, electronegative halogen chemistry, and computational reactor modeling.
 
 ## Repository Contents
-- **`PREFACE.md`**: Charlie Munger's Inversion Principle applied to plasma processing.
+- **`PREFACE.md`**: The First-Principles Inversion Framework applied to plasma processing.
 - **`chapters/`**: 8 comprehensive technical chapters covering non-equilibrium physics, Child-Langmuir sheaths, dual-frequency CCP, high-density ICP, pulsed plasmas, and optical diagnostics.
 - **`appendices/`**: Complete engineering glossary, mathematical derivations (Bohm criterion, Debye length, Child-Langmuir law), reactor specifications, and portfolio links.
 - **`book10-database-updates.sql`**: Production database keywords for MariaDB (CFS) and PostgreSQL (AMEM).
